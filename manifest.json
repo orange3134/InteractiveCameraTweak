@@ -1,0 +1,10 @@
+{
+  "name": "InteractiveCameraTweak",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/orange3134/InteractiveCameraTweak",
+  "description": "This mod fixes an issue where performance drops while using Camera Control.",
+  "dependencies": [
+    "ResoniteModding-BepisLoader-1.5.1",
+    "ResoniteModding-BepisResoniteWrapper-1.0.2"
+  ]
+}
